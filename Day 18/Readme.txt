@@ -1,0 +1,1 @@
+Data Aggregation — GROUP BY দিয়ে রেভিনিউ এবং সেলস সামারি তৈরি
